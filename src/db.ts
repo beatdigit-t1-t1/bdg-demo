@@ -1,1 +1,1 @@
-export const retry = false;
+export const retry = true;
