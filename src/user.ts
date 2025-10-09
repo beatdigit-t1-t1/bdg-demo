@@ -1,1 +1,1 @@
-export class UserService { static getUser() {} }
+export class UserService {}
