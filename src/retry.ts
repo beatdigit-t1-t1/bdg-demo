@@ -1,3 +1,3 @@
 export function retries(attempt: number): boolean {
-  return attempt < 2;
+  return attempt < 3;
 }
